@@ -2,7 +2,7 @@
 
 A lightweight, high-performance web enterprise application designed to automate day-to-day library workflows such as book archiving, indexing, and real-time inventory tracking. This project is built entirely on a decoupled Model-View-Controller (MVC) architecture using the modern Jakarta EE 11 specification.
 
-## 🚀 Technology Stack
+##  Technology Stack
 
 - **Backend Runtime:** Oracle OpenJDK 25 (LTS)
 - **Enterprise Specification:** Jakarta EE 11 (`jakarta.servlet` namespace)
@@ -14,7 +14,7 @@ A lightweight, high-performance web enterprise application designed to automate 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 LibraryManagement/
@@ -38,7 +38,9 @@ LibraryManagement/
     ├── addBook.jsp
     └── issueBook.jsp
 
-🛠️ Installation & Local Setup
+---
+
+## Installation & Local Setup
 1. Prerequisites
 
 Ensure that you have installed and configured the following environments locally:
@@ -119,7 +121,10 @@ copy LibraryManagement.war C:\tomcat\apache-tomcat-11.0.22\webapps\
     👉 http://localhost:8080/LibraryManagement/
 
 (To stop the server later, execute C:\tomcat\apache-tomcat-11.0.22\bin\shutdown.bat)
-👥 Team Contribution Roles
+
+---
+
+## Team Contribution Roles
 
 This project was built as a collaborative effort splitting ownership across the MVC architecture layers:
 

@@ -1,0 +1,12 @@
+# Ignore compiled Java class files
+webapp/WEB-INF/classes/
+
+# Ignore packaged deployment archives
+*.war
+
+# Ignore local server logs or database error dumps
+*.err
+*.log
+
+# Ignore local IDE settings
+.vscode/
